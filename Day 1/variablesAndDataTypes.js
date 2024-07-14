@@ -53,5 +53,3 @@ console.log("Initial value of constant varibale 'b' : ", b);
 // b = 45; (Gives an error bcz reassingment to constant variables is not possible )
 
 console.log("");
-
-// Activity
